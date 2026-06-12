@@ -12,4 +12,4 @@ The EDA revealed important sales patterns, customer preferences, and revenue tre
 
 ## Acknowledgement
 
-This project was completed as part of the DecodeLabs Data Analytics Internship Program.
+This project was completed as part of the DecodeLabs Data Analytics Internship Program(Week-2).
