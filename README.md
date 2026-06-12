@@ -9,3 +9,7 @@
 ## Conclusion
 
 The EDA revealed important sales patterns, customer preferences, and revenue trends that can support business decision-making.
+
+## Acknowledgement
+
+This project was completed as part of the DecodeLabs Data Analytics Internship Program.
